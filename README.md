@@ -1,2 +1,2 @@
-# paperfeed-privacy
-privacy policy for paperfeed
+# Papyri-privacy
+privacy policy for Papyri
